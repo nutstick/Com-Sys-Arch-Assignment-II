@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1479528263 source:c:\users\kitipong\google drive\learn\comsys\homework\hw2\simulator.c
+	<stdio.h>
+	<string.h>
+	"simulator.h"
+
+1478246595 c:\users\kitipong\google drive\learn\comsys\homework\hw2\simulator.h
+
+1479546008 source:c:\users\kitipong\google drive\learn\comsys\homework\hw2\comsys\simulator.c
+	<stdio.h>
+	<string.h>
+
+1479544871 c:\users\kitipong\google drive\learn\comsys\homework\hw2\comsys\simulator.h
+
+1479556760 source:c:\users\kitipong\google drive\learn\comsys\homework\hw2\lru\simulator.c
+	<stdio.h>
+	<string.h>
+
+1479556851 source:c:\users\nuttapat\desktop\hw2\many-way\simulator.c
+	<stdio.h>
+	<string.h>
+
+1479725552 source:c:\users\nuttapat\desktop\hw2\many-way\simulator.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+
+1479896407 source:c:\users\nuttapat\desktop\hw2\many-way\rr.cpp
+	<bits/stdc++.h>
+
